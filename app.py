@@ -43,6 +43,7 @@ def fetch_poster(movie_id):
 
 
 def recommender(movie):
+    st.write("Here are your top 5 Similar movies")
     index = movies[movies['title'] == movie].index[0]
     distances = sorted(list(enumerate(similarity[index])), reverse=True, key=lambda x: x[1])
 
