@@ -5,6 +5,10 @@ The system uses **cosine similarity** on movie feature vectors and displays movi
 
 ---
 
+## Live Demo
+(https://movie-recommendation-system-irfan09.onrender.com)
+
+
 ## 🚀 Features
 - Recommend similar movies
 - Content-based filtering
