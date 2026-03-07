@@ -54,3 +54,21 @@ This approach keeps the repository lightweight, reproducible, and aligned with b
 1. Clone the repository
 ```bash
 git clone https://github.com/irfan-pathan-09/movie-recommendation-system.git
+
+
+
+## 👨‍💻 Author
+
+Irfan Pathan
+
+GitHub:  
+https://github.com/irfan-pathan-09
+
+LinkedIn:  
+www.linkedin.com/in/irfan-khan-b042b7305
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider starring the repository!
