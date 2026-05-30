@@ -11,7 +11,7 @@ The system uses **cosine similarity** on movie feature vectors and displays movi
 
 ## 🚀 Features
 - Recommend similar movies
-- Content-based filtering
+- Content-based filtering options
 - Movie poster fetching using TMDB API
 - Simple and interactive UI built with Streamlit
 
